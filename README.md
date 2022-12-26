@@ -10,6 +10,8 @@
 </div>
 
 
+<!-- 各种语言图片 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
 
 <h5>Languages</h5>
@@ -33,3 +35,5 @@
 <!-- <div align="center", bgcolor="green">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Fsnakcsk" />
 </div> -->
+
+
