@@ -1,6 +1,10 @@
 ### Hi there 👋
     大家好， 我会使用中文和韩文，欢迎来到我的网页
     
+<!-- 各种语言图片 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
+    
+    
 <!-- 个人资料卡 -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fsnakcsk&show_icons=true&theme=dark) -->
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fsnakcsk&theme=dark&layout=compact) -->
@@ -12,7 +16,7 @@
 
 
 
-<h5>Languages</h5>
+<h4>Languages</h4>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -39,6 +43,8 @@
 <div align="center" ><img src="https://cdn.jsdelivr.net/gh/Fsnakcsk/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
 
+
+<!-- GitHub Activity Graph -->
 <table align="center">
   <tr>
     <td colspan="2">
@@ -46,8 +52,4 @@
     </td>
   </tr>
 </table>
-
-
-<!-- 各种语言图片 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
