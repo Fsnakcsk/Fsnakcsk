@@ -18,7 +18,6 @@
 
 
 
-
 <h4>Languages</h4>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -41,7 +40,7 @@
 
 
 <!-- profile-3d-contrib -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/Fsnakcsk/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/Fsnakcsk/Fsnakcsk/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
 
 <!-- GitHub Activity Graph -->
