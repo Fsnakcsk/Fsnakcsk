@@ -23,6 +23,6 @@
 
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎来到这里!&center=true&size=27"> </a> </h1>
 
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" />
+<div align="center", bgcolor="green">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Fsnakcsk" />
 </div>
