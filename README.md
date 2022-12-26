@@ -4,9 +4,9 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fsnakcsk&theme=dark&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fsnakcsk&layout=compact$theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-  
+
+
 <h5>Languages</h5>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
