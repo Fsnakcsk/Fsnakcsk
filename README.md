@@ -40,7 +40,7 @@
 
 
 <!-- profile-3d-contrib -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/Fsnakcsk/Fsnakcsk/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
+<!-- <div align="center" ><img src="https://cdn.jsdelivr.net/gh/Fsnakcsk/Fsnakcsk/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div> -->
 
 
 <!-- GitHub Activity Graph -->
@@ -52,3 +52,7 @@
   </tr>
 </table>
 
+
+<div align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
+</div>
