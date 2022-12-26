@@ -1,10 +1,10 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fsnakcsk&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fsnakcsk&show_icons=true&theme=dark)
 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fsnakcsk&theme=dark&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fsnakcsk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fsnakcsk&layout=compact$theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
   
 <h5>Languages</h5>
