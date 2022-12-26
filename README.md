@@ -70,3 +70,6 @@
     </td>
   </tr>
 </table>
+
+<!-- just img -->
+<div align="center"><img width="50%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311913581.gif"/></div>
