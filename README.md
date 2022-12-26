@@ -4,10 +4,10 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fsnakcsk&theme=dark&layout=compact)
 
 <div align="center">
-    <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai">
+    <img src="https://metrics.lecoq.io/Fsnakcsk?template=classic&config.timezone=Asia%2FShanghai">
 </div>
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/Fsnakcsk/Fsnakcsk/contribution-snake/github-contribution-grid-snake.svg" /></div>
 <h5>Languages</h5>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
