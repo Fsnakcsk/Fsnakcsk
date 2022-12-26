@@ -1,8 +1,9 @@
 ### Hi there 👋
     大家好， 我会使用中文和韩文，欢迎来到我的网页
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fsnakcsk&show_icons=true&theme=dark)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fsnakcsk&theme=dark&layout=compact)
+    
+<!-- 个人资料卡 -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fsnakcsk&show_icons=true&theme=dark) -->
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fsnakcsk&theme=dark&layout=compact) -->
 
 <div align="center">
     <img src="https://metrics.lecoq.io/Fsnakcsk?template=classic&config.timezone=Asia%2FShanghai">
@@ -31,6 +32,7 @@
 
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎来到这里!&center=true&size=27"> </a> </h1>
 
+<!-- 每天登陆卡 -->
 <div align="center", bgcolor="green">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Fsnakcsk" />
 </div>
