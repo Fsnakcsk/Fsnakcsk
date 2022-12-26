@@ -2,7 +2,7 @@
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
 ### Hi there 👋
-    大家好， 我会使用中文和韩文，欢迎来到我的网页
+    <p>大家好， 我会使用中文和韩文，欢迎来到我的网页</p>
     
 <!-- 动态打字 -->
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎来到这里!&center=true&size=27"> </a> </h1>
