@@ -1,5 +1,6 @@
 ### Hi there 👋
-# 数据卡
+    大家好， 我会使用中文和韩文，欢迎来到我的网页
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fsnakcsk&show_icons=true&theme=dark)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fsnakcsk&theme=dark&layout=compact)
 
@@ -7,7 +8,12 @@
     <img src="https://metrics.lecoq.io/Fsnakcsk?template=classic&config.timezone=Asia%2FShanghai">
 </div>
 
+
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/Fsnakcsk/Fsnakcsk/contribution-snake/github-contribution-grid-snake.svg" /></div>
+
+
+
+
 <h5>Languages</h5>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
