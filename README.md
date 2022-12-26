@@ -10,9 +10,6 @@
 </div>
 
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/Fsnakcsk/Fsnakcsk/contribution-snake/github-contribution-grid-snake.svg" /></div>
-
-
 
 
 <h5>Languages</h5>
