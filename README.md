@@ -54,10 +54,10 @@
 <br><br><br>
 
 
-<div align="center">
+<!-- <div align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fsnakcsk&theme=dark&hide_border=true" />
 </div>
-<br><br><br>
+<br><br><br> -->
 
 <!-- Wakatime Graph-->
 <table>
@@ -70,6 +70,3 @@
     </td>
   </tr>
 </table>
-
-<!-- just img -->
-<div align="center"><img width="50%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311913581.gif"/></div>
