@@ -1,13 +1,12 @@
 ### Hi there 👋
+#数据卡
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fsnakcsk&show_icons=true&theme=dark)
-
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fsnakcsk&theme=dark&layout=compact)
 
 
 
 
-<h5>Languages</h5>
+<h5 align="center"> Languages </h5>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -23,3 +22,7 @@
 
 
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎来到这里!&center=true&size=27"> </a> </h1>
+
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" />
+</div>
