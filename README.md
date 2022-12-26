@@ -3,10 +3,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fsnakcsk&show_icons=true&theme=dark)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fsnakcsk&theme=dark&layout=compact)
 
+<div align="center">
+    <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai">
+</div>
 
-
-
-<h5 align="center"> Languages </h5>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<h5>Languages</h5>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
