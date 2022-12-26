@@ -17,14 +17,6 @@
     <img src="https://metrics.lecoq.io/Fsnakcsk?template=classic&config.timezone=Asia%2FShanghai">
 </div>
 
-<!-- 比较好的开源项目卡片 -->
-<div align="center">
-<a href="https://github.com/Fsnakcsk/Awesome-Love-Code">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fsnakcsk&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/Fsnakcsk/Student-Data-Vision">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fsnakcsk&repo=Student-Data-Vision&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-</div>
-
 
 <h4>Languages</h4>
 
