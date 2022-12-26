@@ -8,14 +8,22 @@
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎来到这里!&center=true&size=27"> </a> </h1>
 
 
+
+
 <!-- 个人资料卡 -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fsnakcsk&show_icons=true&theme=dark) -->
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fsnakcsk&theme=dark&layout=compact) -->
-
 <div align="center">
     <img src="https://metrics.lecoq.io/Fsnakcsk?template=classic&config.timezone=Asia%2FShanghai">
 </div>
 
+<!-- 比较好的开源项目卡片 -->
+<div align="center">
+<a href="https://github.com/Fsnakcsk/Awesome-Love-Code">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fsnakcsk&repo=Awesome-Love-Code&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/Fsnakcsk/Student-Data-Vision">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fsnakcsk&repo=Student-Data-Vision&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+</div>
 
 
 <h4>Languages</h4>
@@ -33,17 +41,12 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <br><br><br>
 
-<!-- 每天登陆卡 -->
-<!-- <div align="center", bgcolor="green">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Fsnakcsk" />
-</div> -->
-
 
 <!-- profile-3d-contrib -->
 <!-- <div align="center" ><img src="https://cdn.jsdelivr.net/gh/Fsnakcsk/Fsnakcsk/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div> -->
 
 
-<!-- GitHub Activity Graph -->
+<!-- 기여도 그래프 -->
 <table align="center">
   <tr>
     <td colspan="2">
@@ -53,20 +56,12 @@
 </table>
 <br><br><br>
 
-
-<!-- <div align="center">
+<!-- 每天登陆卡 -->
+<div align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fsnakcsk&theme=dark&hide_border=true" />
 </div>
-<br><br><br> -->
+<br><br><br>
 
-<!-- Wakatime Graph-->
-<table>
-  <tr>
-    <td>
-      <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500"/>
-    </td>
-    <td>
-      <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500"/>
-    </td>
-  </tr>
-</table>
+
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
