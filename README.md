@@ -38,7 +38,7 @@
 <!-- <div align="center" ><img src="https://cdn.jsdelivr.net/gh/Fsnakcsk/Fsnakcsk/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div> -->
 
 
-<!-- 기여도 그래프 -->
+<!-- GitHub 活动统计图 -->
 <table align="center">
   <tr>
     <td colspan="2">
@@ -48,11 +48,16 @@
 </table>
 <br><br><br>
 
-<!-- 每天登陆卡 -->
+<!-- GitHub 连续打卡 -->
 <div align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fsnakcsk&theme=dark&hide_border=true" />
 </div>
 <br><br><br>
+
+
+<!-- GitHub 社交统计图 -->
+<!-- <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=weixin_50915462"> </div>
+<br><br><br> -->
 
 
 <!-- 贪吃蛇代码贡献图 -->
